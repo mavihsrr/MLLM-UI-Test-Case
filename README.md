@@ -3,7 +3,7 @@
 ## Overview
 
 This project addresses the problem of generating detailed test cases for digital product features based on screenshots. The tool uses a combination of advanced models and a user-friendly front end to achieve this goal.
-
+#### DEMO - https://www.loom.com/share/ab548ceebb32480e98b2e8899e89eb95?sid=368eccde-75a4-4d73-b432-b937358b7d0c
 ## Flow 
 <img src="flwchrtt.png" alt="Flowchart" width="50%"/>
 
